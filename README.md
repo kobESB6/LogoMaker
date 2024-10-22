@@ -46,6 +46,9 @@ Run the tests using Jest:
 npm test 
 
 ## Examples 
+![Circle Screenshot](./lib/images/Circle%20.png)
+![Suare Screenshot](./lib/images/Square.png)
+![Triangle Screenshot](./lib/images/Triangle.png)
 
 ## Technology Used
 - Node.js
