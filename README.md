@@ -23,10 +23,13 @@ This application using OOP principles and includes tests with Jest.
 
 ## Installation 
 
-Clone the repo: 
-[LogoMakerLink](https://github.com/kobESB6/LogoMaker)
+Repo: 
+[LogoMakerRepoLink](https://github.com/kobESB6/LogoMaker)
 
-Install Dependecies:
+Video:
+[Submission Video](https://app.screencastify.com/v3/watch/tgSWVtCCPl3YxexHvOh7)
+
+#### Install Dependecies:
 
 cd Logo Maker
 
